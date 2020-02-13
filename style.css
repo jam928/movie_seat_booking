@@ -113,3 +113,16 @@ p.text {
 p.text span {
   color: #6feaf6;
 }
+
+.btn {
+  position: absolute;
+  right: 0;
+  margin-top: 0.5rem;
+}
+
+.submit-btn {
+}
+
+.clear-btn {
+  margin-left: 1rem;
+}
